@@ -171,6 +171,68 @@ function App() {
      <div  ref={loadMoreRef} className='page-two-bg'>
       <img src= "thirtysix.png" className='one-img'/>
      </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "thirtyseven.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "thirtyeight.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "thirtynine.png" className='one-img'/>
+     </div>
+
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "forty.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortyone.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortytwo.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortythree.png" className='one-img'/>
+     </div>
+
+     
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortyfour.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortyfive.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortysix.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortyseven.png" className='one-img'/>
+     </div>
+
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortyeight.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fortynine.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fifty.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fiftyone.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fiftytwo.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fiftythree.png" className='one-img'/>
+     </div>
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fiftyfour.png" className='one-img'/>
+     </div>
+
+     <div  ref={loadMoreRef} className='page-two-bg'>
+      <img src= "fiftyfive.png" className='one-img'/>
+     </div>
     </>
   )
 }
