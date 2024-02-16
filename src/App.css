@@ -1,0 +1,54 @@
+#root {
+  margin: 0;
+  padding: 0;
+
+}
+
+#root * {
+  box-sizing: border-box;
+}
+
+.page-one-bg{
+  background-image: url("../public/BG1RES.png");
+  background-position: center;
+  background-size: cover;
+  height: 900px;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+
+  >img{
+    width:400px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15rem;
+    
+    
+  }
+}
+
+.page-two-bg{
+  background-image: url("../public/BG.png");
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  >img{
+    width: 450px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+    
+  }
+}
